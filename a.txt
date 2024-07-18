@@ -1,3 +1,7 @@
 Hello!
 
+<<<<<<< HEAD
 Main branch
+
+End dev branch file 
+>>>>>>> dev
